@@ -1,0 +1,1 @@
+cd api && api_venv\Scripts\activate && python3 app.py
